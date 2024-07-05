@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.4a0ecd33.chunk.css",
-    "main.js": "./static/js/main.84d640ee.chunk.js",
-    "main.js.map": "./static/js/main.84d640ee.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.fd2926ea.js",
-    "runtime-main.js.map": "./static/js/runtime-main.fd2926ea.js.map",
-    "static/js/2.2ed31b8c.chunk.js": "./static/js/2.2ed31b8c.chunk.js",
-    "static/js/2.2ed31b8c.chunk.js.map": "./static/js/2.2ed31b8c.chunk.js.map",
+    "main.css": "./static/css/main.3f25c46f.css",
+    "main.js": "./static/js/main.65aaea21.js",
+    "static/media/1.png": "./static/media/1.b0a0d27417694a637e4e.png",
+    "static/media/league-gothic.regular.ttf": "./static/media/league-gothic.regular.6ad81aafbe4bc97c8d4d.ttf",
+    "static/media/Kirvy-Regular.otf": "./static/media/Kirvy-Regular.5372a1e776d8322e1662.otf",
+    "static/media/Kirvy-Light.otf": "./static/media/Kirvy-Light.76ecd3fb0d6d5f782b90.otf",
+    "static/media/Kirvy-Thin.otf": "./static/media/Kirvy-Thin.8141bf1da226721c3289.otf",
+    "static/media/Kirvy-Bold.otf": "./static/media/Kirvy-Bold.8eba20b3a5b1eee4c89d.otf",
     "index.html": "./index.html",
-    "static/css/main.4a0ecd33.chunk.css.map": "./static/css/main.4a0ecd33.chunk.css.map",
-    "static/js/2.2ed31b8c.chunk.js.LICENSE.txt": "./static/js/2.2ed31b8c.chunk.js.LICENSE.txt",
-    "static/media/index.css": "./static/media/league-gothic.regular.6ad81aaf.ttf",
-    "static/media/logo.fe7a8cf8.svg": "./static/media/logo.fe7a8cf8.svg",
-    "static/media/wallpaper-sa.68e7954b.png": "./static/media/wallpaper-sa.68e7954b.png"
+    "static/media/edit.svg": "./static/media/edit.7c169e04f95441924df9020d281d33fb.svg",
+    "static/media/delete-icon.svg": "./static/media/delete-icon.cec88e4e1c18bde67f691129eedf04cc.svg",
+    "static/media/add.svg": "./static/media/add.1fed2d6e9f427e9e5a4f1d244954cb4f.svg",
+    "static/media/arrow-next.svg": "./static/media/arrow-next.30b6a55741309fd4c4bee2948ba8683c.svg",
+    "static/media/arrow-prev.svg": "./static/media/arrow-prev.89fca8785f6ab7a4ec12b6e346de9262.svg",
+    "main.3f25c46f.css.map": "./static/css/main.3f25c46f.css.map",
+    "main.65aaea21.js.map": "./static/js/main.65aaea21.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd2926ea.js",
-    "static/js/2.2ed31b8c.chunk.js",
-    "static/css/main.4a0ecd33.chunk.css",
-    "static/js/main.84d640ee.chunk.js"
+    "static/css/main.3f25c46f.css",
+    "static/js/main.65aaea21.js"
   ]
 }
