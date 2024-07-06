@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.3f25c46f.css",
-    "main.js": "./static/js/main.9599315b.js",
-    "static/media/1.png": "./static/media/1.b0a0d27417694a637e4e.png",
+    "main.js": "./static/js/main.8ecfe895.js",
+    "static/media/1.png": "./static/media/1.623e7aeba63bad207060.png",
     "static/media/league-gothic.regular.ttf": "./static/media/league-gothic.regular.6ad81aafbe4bc97c8d4d.ttf",
     "static/media/Kirvy-Regular.otf": "./static/media/Kirvy-Regular.5372a1e776d8322e1662.otf",
     "static/media/Kirvy-Light.otf": "./static/media/Kirvy-Light.76ecd3fb0d6d5f782b90.otf",
@@ -15,10 +15,10 @@
     "static/media/arrow-next.svg": "./static/media/arrow-next.30b6a55741309fd4c4bee2948ba8683c.svg",
     "static/media/arrow-prev.svg": "./static/media/arrow-prev.89fca8785f6ab7a4ec12b6e346de9262.svg",
     "main.3f25c46f.css.map": "./static/css/main.3f25c46f.css.map",
-    "main.9599315b.js.map": "./static/js/main.9599315b.js.map"
+    "main.8ecfe895.js.map": "./static/js/main.8ecfe895.js.map"
   },
   "entrypoints": [
     "static/css/main.3f25c46f.css",
-    "static/js/main.9599315b.js"
+    "static/js/main.8ecfe895.js"
   ]
 }
